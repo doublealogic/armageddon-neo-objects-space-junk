@@ -24,9 +24,19 @@ Datasets to be utilized:
 NEO Earth Close Approaches (NASA): https://cneos.jpl.nasa.gov/ca/
 Space-Track.org: www.space-track.org
 Rough Breakdown by Task:
-Candy: Working on data related to how much space junk has been released in space since the
-advent of space travel– SpaceTrack
-Kevin: Gathering/cleaning/etc. – NASA NEOs 1900-2020, document writing lead
-Kirk: Working on data related to how often space junk presents a danger to Earth? International
-Space Station? – SpaceTrack
-Aaron: Gathering/cleaning/etc. – NASA NEOs 2021 - 2200, presentation lead.
+1. Determine, through reputable scientific sources, the parameters (size of object, distance
+from Earth) that determine potentially globally catastrophic events.
+2. Gather the appropriate data from the NEO NASA database – (may not necessitate API
+pull).
+3. Clean data from NEO NASA database and compile data frames for:
+a. 25 globally catastrophic “closest calls” with NEO since 1900
+b. 25 future potentially globally catastrophic events with NEO 2021-2200
+4. Analyze NEO that have impacted Earth and create a bar graph illustrating which
+continents have been suffered the most collisions.
+5. Compile data from SpaceTrack database to determine:
+a. Which nations put the most pieces of space junk into space (bar graph?)
+
+b. How has the amount of space junk increased/decreased over the last six decades
+(line graph)
+c. Break down of large, medium and small objects (pie chart)
+d. Object types: rocket, payload, debris, unknown etc. (bar graph or pie chart)
