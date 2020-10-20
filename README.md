@@ -29,14 +29,12 @@ from Earth) that determine potentially globally catastrophic events.
 2. Gather the appropriate data from the NEO NASA database – (may not necessitate API
 pull).
 3. Clean data from NEO NASA database and compile data frames for:
-a. 25 globally catastrophic “closest calls” with NEO since 1900
-b. 25 future potentially globally catastrophic events with NEO 2021-2200
+  a. 25 globally catastrophic “closest calls” with NEO since 1900
+  b. 25 future potentially globally catastrophic events with NEO 2021-2200
 4. Analyze NEO that have impacted Earth and create a bar graph illustrating which
 continents have been suffered the most collisions.
 5. Compile data from SpaceTrack database to determine:
-a. Which nations put the most pieces of space junk into space (bar graph?)
-
-b. How has the amount of space junk increased/decreased over the last six decades
-(line graph)
-c. Break down of large, medium and small objects (pie chart)
-d. Object types: rocket, payload, debris, unknown etc. (bar graph or pie chart)
+  a. Which nations put the most pieces of space junk into space (bar graph?)
+  b. How has the amount of space junk increased/decreased over the last six decades (line graph)
+  c. Break down of large, medium and small objects (pie chart)
+  d. Object types: rocket, payload, debris, unknown etc. (bar graph or pie chart)
