@@ -1,4 +1,4 @@
-# armageddon-neo-objects
+# Armageddon? Near Earth Orbit Objects and Space Junk
 Using existing NASA data and Space-Track.org, we will analyze the phenomenon of Near Earth Orbit (NEO) objects to glean an understanding of the frequency with which the Earth encounters danger from space.
 
 Team Members: Candy Capilla, Kevin Gray, Kirk Kornegay, Aaron Robertson
