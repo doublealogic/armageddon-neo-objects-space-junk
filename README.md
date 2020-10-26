@@ -6,17 +6,6 @@ phenomenon of Near Earth Orbit (NEO) objects to glean an understanding of the fr
 with which the Earth encounters danger from space.
 Questions for consideration:
 
-- an item
-- another item
-    - a nested item
-    
-    
-1. item 1
-    1. something else
-    1. something else
-    1. item under item 1
-1. item 2
-
 1. Based on the following parameters: objects 100 m or greater in size whose approach to Earth are within one Lunar Distance unit (384,402 km):
     1. Between 1900-2020, how many NEOs have presented a legitimate threat to life on Earth? 
     1. From 2020-2200, how many NEOs are being tracked that pose a potential threat to life on Earth?
