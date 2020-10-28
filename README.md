@@ -29,6 +29,19 @@ Space-Track.org: www.space-track.org
 ##### Team Members: Candy Capilla, Kevin Gray, Kirk Kornegay, Aaron Robertson
 
 
+# Conclusions
+
+* Only about 1/3 of potentially damaging Near Earth Orbit objects have been detected by experts. Every so often, the media report about an asteroid or other "space object" passing by Earth. If we were to rely on these sensational stories, we might conclude that the Earth is dodging cosmic bullets with great frequency; when in fact that is not the case.
+When a Though a catastrophic collision is unlikely in our lifetimes, it is worthwhile to continue efforts to search and track NEOs.
+
+
+* Space trash does appear to have some relationship with GDP of a country though the strength of that relationship is debatable due to outliers. There are some limitations to this analysis based of a number of factors.  Many space agencies are private and have no affiliation with a country so those had to be removed. Some launches are collaborations between multiple countries so those had to be removed from the data set as well.
+
+
+* The ending of the Space Race (Start date: 1955 - End date: 1975) did not in fact decrease the amount of objects being launched into space. It actuality, it increased dramatically after 1975. That being said, and looking at history, it is likely due to the fact of trying to have the first man on the moon.
+
+
+
 
 
 
